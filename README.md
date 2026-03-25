@@ -66,7 +66,7 @@ The goal of this project is to showcase how Bootstrap can be used to build a rea
 ---
 
 ## 🌐 Live Demo
-[swarooptask1](https://swaroop-task1.vercel.app/)
+[swarooptask1](https://swaroop-task.vercel.app/)
 
 
 ---
